@@ -57,3 +57,9 @@
 /Users/admin/Documents/dotnet_Projects/MyApp/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
 /Users/admin/Documents/dotnet_Projects/MyApp/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
 /Users/admin/Documents/dotnet_Projects/MyApp/obj/Debug/net7.0/MyApp.csproj.CopyComplete
+/Users/admin/Documents/dotnet_Projects/MyApp/bin/Debug/net7.0/az/Humanizer.resources.dll
+/Users/admin/Documents/dotnet_Projects/MyApp/bin/Debug/net7.0/hy/Humanizer.resources.dll
+/Users/admin/Documents/dotnet_Projects/MyApp/bin/Debug/net7.0/is/Humanizer.resources.dll
+/Users/admin/Documents/dotnet_Projects/MyApp/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+/Users/admin/Documents/dotnet_Projects/MyApp/bin/Debug/net7.0/ku/Humanizer.resources.dll
+/Users/admin/Documents/dotnet_Projects/MyApp/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
